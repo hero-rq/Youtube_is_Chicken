@@ -39,6 +39,7 @@ Site    : https://youtube.com (mobile web, not the app)
 ````
 
 
+
 ## 💡 (possible) Root-Cause Hypothesis
 
 The client-side ad player marks the “ad-completed” flag **before** the server confirms delivery. A full document reload clears the ad slot but preserves the playback pointer from the `?v=` URL, so the main video queues instantly.
