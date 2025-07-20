@@ -20,7 +20,8 @@ Refreshing the mobile web page during a pre-roll ad allows any viewer to **bypas
 3. When the pre-roll ad starts:  
    - Pull-to-refresh (just swipe down) **or** tap the ⟳ reload icon.  
 4. No ad at all
-
+5. enjoy it
+ 
 > **Expected:** Ad should restart or block video until completion.  
 > **Actual:** Ad is skipped, video begins immediately.
 
