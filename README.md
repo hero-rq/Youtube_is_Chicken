@@ -3,7 +3,7 @@ https://www.youtube.com/watch?v=lA0B4FIbXFQ
 ## Youtube_is_Chicken
 
 
-If there is someone who pay Youtube subscription, he or she is dumb duded.
+If there is someone who pay Youtube subscription, he or she is dumb dude.
 They(the whole boring google) actually recommend us to use Youtube premium free !!!!!!!!!
 so why not, just chicks out 
 
